@@ -18,8 +18,8 @@ given binary string and less than an integer N.
 <h2>Program walk-through:</h2>
 
 - <b>Solutions</b>
-  - [Basic solution (sets](https://github.com/levnnaz/DS-and-Algorithms/blob/main/Basic%20Solution%201%20(sets).py)
-  - [Optimised solution (sets](https://github.com/levnnaz/DS-and-Algorithms/blob/main/Optimised%20solution%20(sets)%20.py)
+  - [Basic solution (sets)](https://github.com/levnnaz/DS-and-Algorithms/blob/main/Basic%20Solution%201%20(sets).py)
+  - [Optimised solution (sets)](https://github.com/levnnaz/DS-and-Algorithms/blob/main/Optimised%20solution%20(sets)%20.py)
 
 
 
