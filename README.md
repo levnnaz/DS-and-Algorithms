@@ -17,8 +17,11 @@ given binary string and less than an integer N.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Basic code: <br/>
-<https://github.com/levnnaz/DS-and-Algorithms/blob/main/Basic%20Solution%201%20(sets).py>
+Basic solution: <br/>
+https://github.com/levnnaz/DS-and-Algorithms/blob/main/Basic%20Solution%201%20(sets).py
+<p align="center">
+Optimised solution:<br/>
+
 
 
 
