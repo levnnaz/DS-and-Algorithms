@@ -87,9 +87,7 @@ python "Optimised solution (sets).py"
 
 ---
 
-### Implementation Details
-
----
+## Implementation Details
 
 ### Basic Solution
 
@@ -99,8 +97,6 @@ python "Optimised solution (sets).py"
 - Uses `set()` to store decimal and prime numbers.  
 - Converts binary substrings to decimal and checks each for primality.  
 - Prints either all primes or the first three smallest and last three largest if ≥6 primes found.
-
----
 
 ### Optimized Solution
 
