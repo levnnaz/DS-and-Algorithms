@@ -66,8 +66,8 @@ Invalid binary strings should return an error message.
 Run the Python scripts with the following commands:
 
 ```bash
-python "Basic Solution 1 (sets).py"
-python "Optimised solution (sets).py"
+python "Basic_solution_(sets).py"
+python "Optimised_solution_(sets).py"
 ```
 
 ---
