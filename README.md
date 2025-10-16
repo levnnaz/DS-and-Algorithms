@@ -100,7 +100,7 @@ python "Optimised solution (sets).py"
 
 ### Optimized Solution
 
-**File:** [Optimised solution (sets).py](./Optimised%20solution%20(sets).py)  
+**File:** [Optimised solution (sets).py](./Optimised%20solution%20%28sets%29.py)  
 
 **Approach:**
 - Improved primality check using 6k ± 1 rule.  
