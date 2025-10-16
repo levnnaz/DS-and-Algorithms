@@ -11,9 +11,8 @@
    - [Basic Solution](#basic-solution)  
    - [Optimized Solution](#optimized-solution)  
 8. [Testing & Performance](#testing--performance)  
-9. [Complexity Analysis](#complexity-analysis)  
-10. [Team Contributions](#team-contributions)  
-11. [License](#license)  
+9. [Complexity Analysis](#complexity-analysis)
+10. [Summary](#summary)
 
 ---
 
