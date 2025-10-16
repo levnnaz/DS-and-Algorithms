@@ -91,7 +91,7 @@ python "Optimised solution (sets).py"
 
 ### Basic Solution
 
-**File:** [Basic Solution 1 (sets).py](./Basic%20Solution%201%20(sets).py)  
+**File:** [Basic_solution_(sets).py](./Basic_solution_(sets).py)
 
 **Approach:**
 - Uses `set()` to store decimal and prime numbers.  
@@ -100,7 +100,7 @@ python "Optimised solution (sets).py"
 
 ### Optimized Solution
 
-**File:** [Optimised solution (sets).py](./Optimised%20solution%20%28sets%29.py)  
+**File:** [Optimised_solution_(sets).py](./Optimised_solution_(sets).py) 
 
 **Approach:**
 - Improved primality check using 6k ± 1 rule.  
