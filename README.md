@@ -58,6 +58,9 @@ Invalid binary strings should return an error message.
    ```bash
    pip install -r requirements.txt
    ```
+   
+---
+
 ## Usage
 
 Run the Python scripts with the following commands:
@@ -66,6 +69,8 @@ Run the Python scripts with the following commands:
 python "Basic Solution 1 (sets).py"
 python "Optimised solution (sets).py"
 ```
+
+---
 
 ## Examples
 
@@ -80,7 +85,11 @@ python "Optimised solution (sets).py"
 | `101010111001,200`    | `2, 3, 5, 7, 11, 13, 17, 19` | Larger string, first 3 smallest and last 3 largest primes shown |
 | `COMP1010,20`         | `0: Invalid binary strings`  | Not a binary string                                  |
 
+---
+
 ### Implementation Details
+
+---
 
 ### Basic Solution
 
@@ -89,7 +98,9 @@ python "Optimised solution (sets).py"
 **Approach:**
 - Uses `set()` to store decimal and prime numbers.  
 - Converts binary substrings to decimal and checks each for primality.  
-- Prints either all primes or the first three smallest and last three largest if ≥6 primes found.  
+- Prints either all primes or the first three smallest and last three largest if ≥6 primes found.
+
+---
 
 ### Optimized Solution
 
@@ -99,6 +110,8 @@ python "Optimised solution (sets).py"
 - Improved primality check using 6k ± 1 rule.  
 - Uses bitwise operations for faster binary-to-decimal conversion.  
 - Optimized for runtime, efficiently handling large inputs (<60 seconds).
+  
+---
 
 ## Testing & Performance
 
@@ -123,6 +136,8 @@ Optimized solution significantly improves runtime for large inputs using:
 
 - Efficient primality checking  
 - Bitwise operations for binary conversion
+  
+---
 
 ## Complexity Analysis
 
@@ -135,6 +150,8 @@ Optimized solution significantly improves runtime for large inputs using:
 - **Space:** O(n²)  
 
 Optimized solution achieves faster runtime for large inputs without using external libraries.
+
+---
 
 ## Summary
 
